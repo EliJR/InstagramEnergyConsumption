@@ -1,0 +1,20 @@
+Sample ID, time, HDD1, HDD2,  Graph1, Graph2, Proc1, Proc2, tempEET, tempPROC 
+1 ,0,0,0,0,0,0,0 ,-- ,--
+Sample ID, time, HDD1, HDD2,  Graph1, Graph2, Proc1, Proc2, tempEET, tempPROC 
+1 ,0,0,0,0,0,0,0 ,-- ,--
+Sample ID, time, HDD1, HDD2,  Graph1, Graph2, Proc1, Proc2, tempEET, tempPROC 
+1 ,0,0,0,0,0,0,0 ,-- ,--
+Sample ID, time, HDD1, HDD2,  Graph1, Graph2, Proc1, Proc2, tempEET, tempPROC 
+1 ,0,0,0,0,0,0,0 ,-- ,--
+Sample ID, time, HDD1, HDD2,  Graph1, Graph2, Proc1, Proc2, tempEET, tempPROC 
+1 ,0,0,0,0,0,0,0 ,-- ,--
+Sample ID, time, HDD1, HDD2,  Graph1, Graph2, Proc1, Proc2, tempEET, tempPROC 
+1 ,0,0,0,0,0,0,0 ,-- ,--
+Sample ID, time, HDD1, HDD2,  Graph1, Graph2, Proc1, Proc2, tempEET, tempPROC 
+1 ,0,0,0,0,0,0,0 ,-- ,--
+Sample ID, time, HDD1, HDD2,  Graph1, Graph2, Proc1, Proc2, tempEET, tempPROC 
+1 ,0,0,0,0,0,0,0 ,-- ,--
+Sample ID, time, HDD1, HDD2,  Graph1, Graph2, Proc1, Proc2, tempEET, tempPROC 
+1 ,0,0,0,0,0,0,0 ,-- ,--
+Sample ID, time, tiempo, HDD1, HDD2,  Graph1, Graph2, Proc1, Proc2, tempEET, tempPROC 
+1 ,0,0,0,0,0,0,0 ,-- ,--
